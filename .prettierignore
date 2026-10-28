@@ -1,0 +1,18 @@
+# Build output and dependencies
+.next
+out
+build
+node_modules
+
+# Generated
+next-env.d.ts
+package-lock.json
+
+# Binary and media assets
+*.png
+*.jpg
+*.jpeg
+*.ico
+*.svg
+*.woff
+*.woff2

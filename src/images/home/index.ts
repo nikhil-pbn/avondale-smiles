@@ -1,0 +1,15 @@
+export { default as planVisitIcon } from "@/images/home/plan-visit.svg";
+export { default as talkTeamIcon } from "@/images/home/talk-team.svg";
+export { default as locationPinIcon } from "@/images/home/location.svg";
+export { default as drAgarwalSeated } from "@/images/home/dr-agarwal-seated.png";
+export { default as meetDoctorBackground } from "@/images/home/meet-doctor-bg.png";
+export { default as signature } from "@/images/home/signature.svg";
+export { default as serviceGeneral } from "@/images/home/service-general.png";
+export { default as servicePediatric } from "@/images/home/service-pediatric.png";
+export { default as serviceSedation } from "@/images/home/service-sedation.png";
+export { default as serviceOrthodontic } from "@/images/home/service-orthodontic.png";
+export { default as serviceImplants } from "@/images/home/service-implants.png";
+export { default as serviceCardMobile } from "@/images/home/service-card-mobile.png";
+export { default as reception } from "@/images/home/reception.png";
+export { default as clockPhoto } from "@/images/home/clock.png";
+export { default as heroPoster } from "@/images/home/hero-poster.jpg";

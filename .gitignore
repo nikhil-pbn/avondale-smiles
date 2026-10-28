@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# text-us form submissions (local JSON store, see src/lib/text-requests.ts)
+/data/*.json

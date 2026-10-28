@@ -1,0 +1,13 @@
+export { default as servicesBanner } from "@/images/services/services-banner.png";
+export { default as serviceIconGeneral } from "@/images/services/general-dentistry.svg";
+export { default as serviceIconPediatric } from "@/images/services/pediatric-dentistry.svg";
+export { default as serviceIconSedation } from "@/images/services/sedation-dentistry.svg";
+export { default as serviceIconOrthodontic } from "@/images/services/orthodontic-services.svg";
+export { default as serviceIconImplants } from "@/images/services/dental-implants.svg";
+export { default as serviceIconEmergency } from "@/images/services/emergency-dentistry.svg";
+export { default as serviceHeroGeneral } from "@/images/services/hero-general-dentistry.png";
+export { default as serviceHeroPediatric } from "@/images/services/hero-pediatric-dentistry.png";
+export { default as serviceHeroSedation } from "@/images/services/hero-sedation-dentistry.png";
+export { default as serviceHeroOrthodontic } from "@/images/services/hero-orthodontic-services.png";
+export { default as serviceHeroImplants } from "@/images/services/hero-dental-implants.png";
+export { default as serviceHeroEmergency } from "@/images/services/hero-emergency-dentistry.png";

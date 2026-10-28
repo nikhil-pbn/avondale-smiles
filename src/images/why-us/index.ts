@@ -1,0 +1,16 @@
+export { default as circlesLarge } from "@/images/why-us/circles-large.svg";
+export { default as circlesSmall } from "@/images/why-us/circles-small.svg";
+export { default as dentalChair } from "@/images/why-us/dental-chair.png";
+export { default as drAgarwalStanding } from "@/images/why-us/dr-agarwal-standing.png";
+export { default as facebookWordmark } from "@/images/why-us/facebook-wordmark.png";
+export { default as googleReviewsLogo } from "@/images/why-us/google-reviews-logo.svg";
+export { default as testimonialPoster1 } from "@/images/why-us/testimonial-01.png";
+export { default as testimonialPoster2 } from "@/images/why-us/testimonial-02.png";
+export { default as testimonialPoster3 } from "@/images/why-us/testimonial-03.png";
+export { default as testimonialPoster4 } from "@/images/why-us/testimonial-04.png";
+export { default as testimonialPoster5 } from "@/images/why-us/testimonial-05.png";
+export { default as testimonialPoster6 } from "@/images/why-us/testimonial-06.png";
+export { default as testimonialPoster7 } from "@/images/why-us/testimonial-07.png";
+export { default as topDentistPlaque } from "@/images/why-us/top-dentist-plaque.png";
+export { default as whyUsHero } from "@/images/why-us/why-us-hero.png";
+export { default as yelpWordmark } from "@/images/why-us/yelp-wordmark.png";
